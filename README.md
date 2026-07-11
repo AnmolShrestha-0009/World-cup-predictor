@@ -180,7 +180,7 @@ Predicted Winner: Spain
 ## 🏆 Knockout Stage Prediction 
 
 ```text
-                           FIFA Women's World Cup
+                           FIFA men's World Cup
                            Knockout Stage Bracket
 
 Quarter-finals                     Semi-finals                     Final
