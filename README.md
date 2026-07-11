@@ -1,4 +1,4 @@
-# ⚽ FIFA Women's World Cup Match Winner Predictor
+# ⚽ FIFA Men's World Cup Match Winner Predictor
 
 A machine learning project that predicts the winner of a FIFA men's World Cup match using an ensemble of **Random Forest** and **XGBoost** classifiers. The project generates match features from team statistics, obtains predictions from both models, and combines them to produce a final prediction.
 
